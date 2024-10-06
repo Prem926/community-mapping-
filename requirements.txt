@@ -1,5 +1,13 @@
 streamlit
-requests
 folium
 streamlit-folium
+requests
+numpy
+pandas
 plotly
+geopandas
+scikit-learn
+matplotlib
+geopy
+streamlit-lottie
+branca
